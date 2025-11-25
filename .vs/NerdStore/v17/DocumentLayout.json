@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA2F9602-AEF5-41CC-9AFE-0BCAF443066A}|src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj|c:\\estudos\\01 - estudos\\01 - desenvolvedor.io\\11 - modelagemdedominiosricos - in progress\\02 - courseproject\\nerdstore\\src\\nerdstore.catalogo.domain\\dimensoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA2F9602-AEF5-41CC-9AFE-0BCAF443066A}|src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj|solutionrelative:src\\nerdstore.catalogo.domain\\dimensoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73DB04EC-6B8C-4170-85D4-451217AB18B8}|tests\\NerdStore.Catalogo.Domain.Tests\\NerdStore.Catalogo.Domain.Tests.csproj|c:\\estudos\\01 - estudos\\01 - desenvolvedor.io\\11 - modelagemdedominiosricos - in progress\\02 - courseproject\\nerdstore\\tests\\nerdstore.catalogo.domain.tests\\produtotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73DB04EC-6B8C-4170-85D4-451217AB18B8}|tests\\NerdStore.Catalogo.Domain.Tests\\NerdStore.Catalogo.Domain.Tests.csproj|solutionrelative:tests\\nerdstore.catalogo.domain.tests\\produtotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA2F9602-AEF5-41CC-9AFE-0BCAF443066A}|src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj|c:\\estudos\\01 - estudos\\01 - desenvolvedor.io\\11 - modelagemdedominiosricos - in progress\\02 - courseproject\\nerdstore\\src\\nerdstore.catalogo.domain\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA2F9602-AEF5-41CC-9AFE-0BCAF443066A}|src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj|solutionrelative:src\\nerdstore.catalogo.domain\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE1EA865-2913-41E9-B4C3-E739B391CD54}|src\\NerdStore.Core\\NerdStore.Core.csproj|c:\\estudos\\01 - estudos\\01 - desenvolvedor.io\\11 - modelagemdedominiosricos - in progress\\02 - courseproject\\nerdstore\\src\\nerdstore.core\\domain.objects\\validacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE1EA865-2913-41E9-B4C3-E739B391CD54}|src\\NerdStore.Core\\NerdStore.Core.csproj|solutionrelative:src\\nerdstore.core\\domain.objects\\validacoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE1EA865-2913-41E9-B4C3-E739B391CD54}|src\\NerdStore.Core\\NerdStore.Core.csproj|c:\\estudos\\01 - estudos\\01 - desenvolvedor.io\\11 - modelagemdedominiosricos - in progress\\02 - courseproject\\nerdstore\\src\\nerdstore.core\\domain.objects\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE1EA865-2913-41E9-B4C3-E739B391CD54}|src\\NerdStore.Core\\NerdStore.Core.csproj|solutionrelative:src\\nerdstore.core\\domain.objects\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -29,10 +37,6 @@
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Produto.cs",
@@ -40,22 +44,56 @@
               "RelativeDocumentMoniker": "src\\NerdStore.Catalogo.Domain\\Produto.cs",
               "ToolTip": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.Catalogo.Domain\\Produto.cs",
               "RelativeToolTip": "src\\NerdStore.Catalogo.Domain\\Produto.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAA3wCMAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAqwDEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T22:18:08.028Z",
+              "WhenOpened": "2025-11-25T22:33:53.722Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Dimensoes.cs",
-              "DocumentMoniker": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.Catalogo.Domain\\Dimensoes.cs",
-              "RelativeDocumentMoniker": "src\\NerdStore.Catalogo.Domain\\Dimensoes.cs",
-              "ToolTip": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.Catalogo.Domain\\Dimensoes.cs",
-              "RelativeToolTip": "src\\NerdStore.Catalogo.Domain\\Dimensoes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAoAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Validacoes.cs",
+              "DocumentMoniker": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.Core\\Domain.Objects\\Validacoes.cs",
+              "RelativeDocumentMoniker": "src\\NerdStore.Core\\Domain.Objects\\Validacoes.cs",
+              "ToolTip": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.Core\\Domain.Objects\\Validacoes.cs",
+              "RelativeToolTip": "src\\NerdStore.Core\\Domain.Objects\\Validacoes.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwAQAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-25T22:12:36.965Z",
+              "WhenOpened": "2025-11-25T22:31:39.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAggregateRoot.cs",
+              "DocumentMoniker": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.Core\\Domain.Objects\\IAggregateRoot.cs",
+              "RelativeDocumentMoniker": "src\\NerdStore.Core\\Domain.Objects\\IAggregateRoot.cs",
+              "ToolTip": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.Core\\Domain.Objects\\IAggregateRoot.cs",
+              "RelativeToolTip": "src\\NerdStore.Core\\Domain.Objects\\IAggregateRoot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T22:31:36.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoTests.cs",
+              "DocumentMoniker": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\tests\\NerdStore.Catalogo.Domain.Tests\\ProdutoTests.cs",
+              "RelativeDocumentMoniker": "tests\\NerdStore.Catalogo.Domain.Tests\\ProdutoTests.cs",
+              "ToolTip": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\tests\\NerdStore.Catalogo.Domain.Tests\\ProdutoTests.cs",
+              "RelativeToolTip": "tests\\NerdStore.Catalogo.Domain.Tests\\ProdutoTests.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T22:26:04.24Z",
               "EditorCaption": ""
             }
           ]

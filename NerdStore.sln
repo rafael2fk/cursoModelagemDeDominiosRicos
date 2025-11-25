@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36518.9 d17.14
+VisualStudioVersion = 17.14.36518.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NerdStore.Catalogo.Domain",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NerdStore.Core", "src\NerdStore.Core\NerdStore.Core.csproj", "{AE1EA865-2913-41E9-B4C3-E739B391CD54}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{09BD4050-E500-4D62-A0ED-11872C274483}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NerdStore.Catalogo.Domain.Tests", "tests\NerdStore.Catalogo.Domain.Tests\NerdStore.Catalogo.Domain.Tests.csproj", "{73DB04EC-6B8C-4170-85D4-451217AB18B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +41,10 @@ Global
 		{AE1EA865-2913-41E9-B4C3-E739B391CD54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE1EA865-2913-41E9-B4C3-E739B391CD54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE1EA865-2913-41E9-B4C3-E739B391CD54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73DB04EC-6B8C-4170-85D4-451217AB18B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73DB04EC-6B8C-4170-85D4-451217AB18B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73DB04EC-6B8C-4170-85D4-451217AB18B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73DB04EC-6B8C-4170-85D4-451217AB18B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -50,6 +58,8 @@ Global
 		{9F9BED5E-DA41-4AC7-B884-3BE7DC0E0F77} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{BA2F9602-AEF5-41CC-9AFE-0BCAF443066A} = {327DBD3C-1029-449B-8958-089E1DA28153}
 		{AE1EA865-2913-41E9-B4C3-E739B391CD54} = {25FDDEE6-A649-4831-A259-438FB02DC7D6}
+		{09BD4050-E500-4D62-A0ED-11872C274483} = {327DBD3C-1029-449B-8958-089E1DA28153}
+		{73DB04EC-6B8C-4170-85D4-451217AB18B8} = {09BD4050-E500-4D62-A0ED-11872C274483}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1FFF7096-B2CC-4079-93B5-B5BEE9D53990}
