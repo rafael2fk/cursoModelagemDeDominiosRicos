@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA2F9602-AEF5-41CC-9AFE-0BCAF443066A}|src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj|c:\\estudos\\01 - estudos\\01 - desenvolvedor.io\\11 - modelagemdedominiosricos - in progress\\02 - courseproject\\nerdstore\\src\\nerdstore.catalogo.domain\\events\\produtoeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA2F9602-AEF5-41CC-9AFE-0BCAF443066A}|src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj|solutionrelative:src\\nerdstore.catalogo.domain\\events\\produtoeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B168696D-5833-4DAF-AA78-D1F5DD5048E1}|src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj|c:\\estudos\\01 - estudos\\01 - desenvolvedor.io\\11 - modelagemdedominiosricos - in progress\\02 - courseproject\\nerdstore\\src\\nerdstore.catalogo.application\\automapper\\viewmodeltodomainmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B168696D-5833-4DAF-AA78-D1F5DD5048E1}|src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj|solutionrelative:src\\nerdstore.catalogo.application\\automapper\\viewmodeltodomainmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA2F9602-AEF5-41CC-9AFE-0BCAF443066A}|src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj|c:\\estudos\\01 - estudos\\01 - desenvolvedor.io\\11 - modelagemdedominiosricos - in progress\\02 - courseproject\\nerdstore\\src\\nerdstore.catalogo.domain\\estoqueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA2F9602-AEF5-41CC-9AFE-0BCAF443066A}|src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj|solutionrelative:src\\nerdstore.catalogo.domain\\estoqueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B168696D-5833-4DAF-AA78-D1F5DD5048E1}|src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj|c:\\estudos\\01 - estudos\\01 - desenvolvedor.io\\11 - modelagemdedominiosricos - in progress\\02 - courseproject\\nerdstore\\src\\nerdstore.catalogo.application\\automapper\\domaintoviewmodelmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B168696D-5833-4DAF-AA78-D1F5DD5048E1}|src\\NerdStore.Catalogo.Application\\NerdStore.Catalogo.Application.csproj|solutionrelative:src\\nerdstore.catalogo.application\\automapper\\domaintoviewmodelmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,27 +35,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProdutoEventHandler.cs",
-              "DocumentMoniker": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.Catalogo.Domain\\Events\\ProdutoEventHandler.cs",
-              "RelativeDocumentMoniker": "src\\NerdStore.Catalogo.Domain\\Events\\ProdutoEventHandler.cs",
-              "ToolTip": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.Catalogo.Domain\\Events\\ProdutoEventHandler.cs",
-              "RelativeToolTip": "src\\NerdStore.Catalogo.Domain\\Events\\ProdutoEventHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Title": "ViewModelToDomainMappingProfile.cs",
+              "DocumentMoniker": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.Catalogo.Application\\AutoMapper\\ViewModelToDomainMappingProfile.cs",
+              "RelativeDocumentMoniker": "src\\NerdStore.Catalogo.Application\\AutoMapper\\ViewModelToDomainMappingProfile.cs",
+              "ToolTip": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.Catalogo.Application\\AutoMapper\\ViewModelToDomainMappingProfile.cs",
+              "RelativeToolTip": "src\\NerdStore.Catalogo.Application\\AutoMapper\\ViewModelToDomainMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T16:02:51.179Z",
+              "WhenOpened": "2025-11-26T16:49:52.189Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EstoqueService.cs",
-              "DocumentMoniker": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.Catalogo.Domain\\EstoqueService.cs",
-              "RelativeDocumentMoniker": "src\\NerdStore.Catalogo.Domain\\EstoqueService.cs",
-              "ToolTip": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.Catalogo.Domain\\EstoqueService.cs",
-              "RelativeToolTip": "src\\NerdStore.Catalogo.Domain\\EstoqueService.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAB8AAAAWAAAAAAAAAA==",
+              "Title": "DomainToViewModelMappingProfile.cs",
+              "DocumentMoniker": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.Catalogo.Application\\AutoMapper\\DomainToViewModelMappingProfile.cs",
+              "RelativeDocumentMoniker": "src\\NerdStore.Catalogo.Application\\AutoMapper\\DomainToViewModelMappingProfile.cs",
+              "ToolTip": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.Catalogo.Application\\AutoMapper\\DomainToViewModelMappingProfile.cs",
+              "RelativeToolTip": "src\\NerdStore.Catalogo.Application\\AutoMapper\\DomainToViewModelMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-26T15:37:44.598Z",
+              "WhenOpened": "2025-11-26T16:46:00.429Z",
               "EditorCaption": ""
             }
           ]
