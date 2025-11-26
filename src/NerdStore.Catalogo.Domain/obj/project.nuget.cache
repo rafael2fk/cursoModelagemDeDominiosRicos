@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "80htgb4JWgQ=",
+  "dgSpecHash": "099i5XkUjQM=",
   "success": true,
   "projectFilePath": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.Catalogo.Domain\\NerdStore.Catalogo.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
