@@ -56,9 +56,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "MediatR": {
+            "AutoMapper": {
               "target": "Package",
-              "version": "[8.1.0, )"
+              "version": "[13.0.1, )"
             }
           },
           "imports": [
