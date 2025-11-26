@@ -1,0 +1,9 @@
+﻿using NerdStore.Core.Domain.Objects;
+
+namespace NerdStore.Core.Data
+{
+    public interface IRepository<T> : IDisposable where T : IAggregateRoot
+    {
+        IUnitOfWork unitOfWork { get; }
+    }
+}
