@@ -5,14 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BA924D24-56E1-44A6-BAFA-437374EFA3CC}|src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj|c:\\estudos\\01 - estudos\\01 - desenvolvedor.io\\11 - modelagemdedominiosricos - in progress\\02 - courseproject\\nerdstore\\src\\nerdstore.webapp.mvc\\setup\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA924D24-56E1-44A6-BAFA-437374EFA3CC}|src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj|solutionrelative:src\\nerdstore.webapp.mvc\\setup\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74358982-6034-4DEE-81D0-D12B998B6123}|src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj|c:\\estudos\\01 - estudos\\01 - desenvolvedor.io\\11 - modelagemdedominiosricos - in progress\\02 - courseproject\\nerdstore\\src\\nerdstore.vendas.application\\commands\\pedidocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74358982-6034-4DEE-81D0-D12B998B6123}|src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj|solutionrelative:src\\nerdstore.vendas.application\\commands\\pedidocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74358982-6034-4DEE-81D0-D12B998B6123}|src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj|c:\\estudos\\01 - estudos\\01 - desenvolvedor.io\\11 - modelagemdedominiosricos - in progress\\02 - courseproject\\nerdstore\\src\\nerdstore.vendas.application\\commands\\adicionaritempedidocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74358982-6034-4DEE-81D0-D12B998B6123}|src\\NerdStore.Vendas.Application\\NerdStore.Vendas.Application.csproj|solutionrelative:src\\nerdstore.vendas.application\\commands\\adicionaritempedidocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,35 +36,9 @@
               "RelativeDocumentMoniker": "src\\NerdStore.WebApp.MVC\\Setup\\DependencyInjection.cs",
               "ToolTip": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.WebApp.MVC\\Setup\\DependencyInjection.cs",
               "RelativeToolTip": "src\\NerdStore.WebApp.MVC\\Setup\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T00:33:00.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PedidoCommandHandler.cs",
-              "DocumentMoniker": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.Vendas.Application\\Commands\\PedidoCommandHandler.cs",
-              "RelativeDocumentMoniker": "src\\NerdStore.Vendas.Application\\Commands\\PedidoCommandHandler.cs",
-              "ToolTip": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.Vendas.Application\\Commands\\PedidoCommandHandler.cs",
-              "RelativeToolTip": "src\\NerdStore.Vendas.Application\\Commands\\PedidoCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T00:26:51.012Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AdicionarItemPedidoCommand.cs",
-              "DocumentMoniker": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.Vendas.Application\\Commands\\AdicionarItemPedidoCommand.cs",
-              "RelativeDocumentMoniker": "src\\NerdStore.Vendas.Application\\Commands\\AdicionarItemPedidoCommand.cs",
-              "ToolTip": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.Vendas.Application\\Commands\\AdicionarItemPedidoCommand.cs",
-              "RelativeToolTip": "src\\NerdStore.Vendas.Application\\Commands\\AdicionarItemPedidoCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-29T00:21:20.239Z",
+              "WhenOpened": "2025-12-01T14:58:59.61Z",
               "EditorCaption": ""
             }
           ]

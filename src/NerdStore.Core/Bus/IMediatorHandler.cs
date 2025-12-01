@@ -2,8 +2,10 @@
 
 namespace NerdStore.Core.Bus
 {
-    public interface IMediatrHandler
+    public interface IMediatorHandler
     {
         Task PublicarEvento<T>(T evento) where T : Event;
+
+        Task<bool> EnviarComnado<T>(T comando) where T : Command;
     }
 }
