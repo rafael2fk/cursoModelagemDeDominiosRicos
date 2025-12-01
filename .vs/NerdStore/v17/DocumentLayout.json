@@ -1,12 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{BA924D24-56E1-44A6-BAFA-437374EFA3CC}|src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj|c:\\estudos\\01 - estudos\\01 - desenvolvedor.io\\11 - modelagemdedominiosricos - in progress\\02 - courseproject\\nerdstore\\src\\nerdstore.webapp.mvc\\setup\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA924D24-56E1-44A6-BAFA-437374EFA3CC}|src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj|solutionrelative:src\\nerdstore.webapp.mvc\\setup\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\coursesDev\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,24 +17,15 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.WebApp.MVC\\Setup\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "src\\NerdStore.WebApp.MVC\\Setup\\DependencyInjection.cs",
-              "ToolTip": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.WebApp.MVC\\Setup\\DependencyInjection.cs",
-              "RelativeToolTip": "src\\NerdStore.WebApp.MVC\\Setup\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T14:58:59.61Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         },

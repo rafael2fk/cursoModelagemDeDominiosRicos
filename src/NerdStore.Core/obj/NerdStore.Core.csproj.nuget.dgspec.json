@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj": {}
+    "C:\\coursesDev\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj": {}
   },
   "projects": {
-    "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
+    "C:\\coursesDev\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj",
+        "projectUniqueName": "C:\\coursesDev\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj",
         "projectName": "NerdStore.Core",
-        "projectPath": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj",
+        "projectPath": "C:\\coursesDev\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.Core\\NerdStore.Core.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "C:\\Estudos\\01 - Estudos\\01 - Desenvolvedor.io\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.Core\\obj\\",
+        "outputPath": "C:\\coursesDev\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

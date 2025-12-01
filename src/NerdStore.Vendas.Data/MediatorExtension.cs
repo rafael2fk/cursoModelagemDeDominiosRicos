@@ -1,4 +1,4 @@
-﻿using NerdStore.Core.Bus;
+﻿using NerdStore.Core.Communication.Mediator;
 using NerdStore.Core.Domain.Objects;
 
 namespace NerdStore.Vendas.Data
