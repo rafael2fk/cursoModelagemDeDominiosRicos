@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\coursesDev\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{BA924D24-56E1-44A6-BAFA-437374EFA3CC}|src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj|c:\\coursesdev\\11 - modelagemdedominiosricos - in progress\\02 - courseproject\\nerdstore\\src\\nerdstore.webapp.mvc\\controllers\\carrinhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA924D24-56E1-44A6-BAFA-437374EFA3CC}|src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj|solutionrelative:src\\nerdstore.webapp.mvc\\controllers\\carrinhocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA924D24-56E1-44A6-BAFA-437374EFA3CC}|src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj|c:\\coursesdev\\11 - modelagemdedominiosricos - in progress\\02 - courseproject\\nerdstore\\src\\nerdstore.webapp.mvc\\controllers\\controllerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA924D24-56E1-44A6-BAFA-437374EFA3CC}|src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj|solutionrelative:src\\nerdstore.webapp.mvc\\controllers\\controllerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,32 +26,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CarrinhoController.cs",
-              "DocumentMoniker": "C:\\coursesDev\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.WebApp.MVC\\Controllers\\CarrinhoController.cs",
-              "RelativeDocumentMoniker": "src\\NerdStore.WebApp.MVC\\Controllers\\CarrinhoController.cs",
-              "ToolTip": "C:\\coursesDev\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.WebApp.MVC\\Controllers\\CarrinhoController.cs",
-              "RelativeToolTip": "src\\NerdStore.WebApp.MVC\\Controllers\\CarrinhoController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowDEAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T23:07:02.466Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ControllerBase.cs",
-              "DocumentMoniker": "C:\\coursesDev\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.WebApp.MVC\\Controllers\\ControllerBase.cs",
-              "RelativeDocumentMoniker": "src\\NerdStore.WebApp.MVC\\Controllers\\ControllerBase.cs",
-              "ToolTip": "C:\\coursesDev\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.WebApp.MVC\\Controllers\\ControllerBase.cs",
-              "RelativeToolTip": "src\\NerdStore.WebApp.MVC\\Controllers\\ControllerBase.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBwAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-01T23:05:12.675Z",
-              "EditorCaption": ""
             }
           ]
         },

@@ -1,5 +1,8 @@
-﻿using NerdStore.Core.Domain.Objects;
-using System.ComponentModel.DataAnnotations;
+﻿using FluentValidation.Results;
+using NerdStore.Core.Domain.Objects;
+using NerdStore.Core.DomainObjects;
+using System;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace NerdStore.Vendas.Domain

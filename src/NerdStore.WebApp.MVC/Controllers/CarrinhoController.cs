@@ -45,7 +45,7 @@ namespace NerdStore.WebApp.MVC.Controllers
             }
 
             var command = new AdicionarItemPedidoCommand(ClienteId, produto.Id, produto.Nome, quantidade, produto.Valor);
-            await _mediatorHandler.EnviarComando(command);
+            await _mediatorHandler.EnviarComnado(command);
 
             if (OperacaoValida())
             {
@@ -64,7 +64,7 @@ namespace NerdStore.WebApp.MVC.Controllers
             if (produto == null) return BadRequest();
 
             var command = new RemoverItemPedidoCommand(ClienteId, id);
-            await _mediatorHandler.EnviarComando(command);
+            await _mediatorHandler.EnviarComnado(command);
 
             if (OperacaoValida())
             {
@@ -82,7 +82,7 @@ namespace NerdStore.WebApp.MVC.Controllers
             if (produto == null) return BadRequest();
 
             var command = new AtualizarItemPedidoCommand(ClienteId, id, quantidade);
-            await _mediatorHandler.EnviarComando(command);
+            await _mediatorHandler.EnviarComnado(command);
 
             if (OperacaoValida())
             {
@@ -97,7 +97,7 @@ namespace NerdStore.WebApp.MVC.Controllers
         public async Task<IActionResult> AplicarVoucher(string voucherCodigo)
         {
             var command = new AplicarVoucherPedidoCommand(ClienteId, voucherCodigo);
-            await _mediatorHandler.EnviarComando(command);
+            await _mediatorHandler.EnviarComnado(command);
 
             if (OperacaoValida())
             {
