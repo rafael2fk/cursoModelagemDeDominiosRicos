@@ -11,7 +11,6 @@ namespace NerdStore.Vendas.Data
     {
         private readonly IMediatorHandler _mediatorHandler;
 
-
         public VendasContext(DbContextOptions<VendasContext> options, IMediatorHandler mediatorHandler)
             : base(options)
         {
