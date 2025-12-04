@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\coursesDev\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA924D24-56E1-44A6-BAFA-437374EFA3CC}|src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj|c:\\coursesdev\\11 - modelagemdedominiosricos - in progress\\02 - courseproject\\nerdstore\\src\\nerdstore.webapp.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA924D24-56E1-44A6-BAFA-437374EFA3CC}|src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj|solutionrelative:src\\nerdstore.webapp.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +31,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\coursesDev\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.WebApp.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "src\\NerdStore.WebApp.MVC\\Program.cs",
+              "ToolTip": "C:\\coursesDev\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.WebApp.MVC\\Program.cs*",
+              "RelativeToolTip": "src\\NerdStore.WebApp.MVC\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T21:03:35.082Z",
+              "EditorCaption": ""
             }
           ]
         },

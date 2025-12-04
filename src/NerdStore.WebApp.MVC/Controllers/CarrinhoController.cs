@@ -1,4 +1,8 @@
-﻿using MediatR;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using NerdStore.Catalogo.Application.Services;
 using NerdStore.Core.Communication.Mediator;
@@ -6,7 +10,6 @@ using NerdStore.Core.Messages.CommonMessages.Notifications;
 using NerdStore.Vendas.Application.Commands;
 using NerdStore.Vendas.Application.Queries;
 using NerdStore.Vendas.Application.Queries.ViewModels;
-using System.Threading.Tasks;
 
 namespace NerdStore.WebApp.MVC.Controllers
 {
@@ -46,7 +49,7 @@ namespace NerdStore.WebApp.MVC.Controllers
             }
 
             var command = new AdicionarItemPedidoCommand(ClienteId, produto.Id, produto.Nome, quantidade, produto.Valor);
-            await _mediatorHandler.EnviarComnado(command);
+            await _mediatorHandler.EnviarComando(command);
 
             if (OperacaoValida())
             {
@@ -65,7 +68,7 @@ namespace NerdStore.WebApp.MVC.Controllers
             if (produto == null) return BadRequest();
 
             var command = new RemoverItemPedidoCommand(ClienteId, id);
-            await _mediatorHandler.EnviarComnado(command);
+            await _mediatorHandler.EnviarComando(command);
 
             if (OperacaoValida())
             {
@@ -83,7 +86,7 @@ namespace NerdStore.WebApp.MVC.Controllers
             if (produto == null) return BadRequest();
 
             var command = new AtualizarItemPedidoCommand(ClienteId, id, quantidade);
-            await _mediatorHandler.EnviarComnado(command);
+            await _mediatorHandler.EnviarComando(command);
 
             if (OperacaoValida())
             {
@@ -98,7 +101,7 @@ namespace NerdStore.WebApp.MVC.Controllers
         public async Task<IActionResult> AplicarVoucher(string voucherCodigo)
         {
             var command = new AplicarVoucherPedidoCommand(ClienteId, voucherCodigo);
-            await _mediatorHandler.EnviarComnado(command);
+            await _mediatorHandler.EnviarComando(command);
 
             if (OperacaoValida())
             {
@@ -134,4 +137,3 @@ namespace NerdStore.WebApp.MVC.Controllers
         }
     }
 }
-

@@ -8,6 +8,7 @@ using NerdStore.Core.Messages.CommonMessages.IntegrationEvents;
 using NerdStore.Core.Messages.CommonMessages.Notifications;
 using NerdStore.Pagamentos.AntiCorruption;
 using NerdStore.Pagamentos.Business;
+using NerdStore.Pagamentos.Business.Events;
 using NerdStore.Pagamentos.Data;
 using NerdStore.Pagamentos.Data.Repository;
 using NerdStore.Vendas.Application.Commands;
@@ -16,8 +17,8 @@ using NerdStore.Vendas.Application.Queries;
 using NerdStore.Vendas.Data;
 using NerdStore.Vendas.Data.Repository;
 using NerdStore.Vendas.Domain;
-using ConfigurationManager = Microsoft.Extensions.Configuration.ConfigurationManager;
-using IConfigurationManager = Microsoft.Extensions.Configuration.IConfigurationManager;
+using NerdStore.Pagamentos.AntiCorruption;
+
 
 namespace NerdStore.WebApp.MVC.Setup
 {
@@ -70,3 +71,5 @@ namespace NerdStore.WebApp.MVC.Setup
 
             services.AddScoped<INotificationHandler<PedidoEstoqueConfirmadoEvent>, PagamentoEventHandler>();
         }
+    }
+}

@@ -1,15 +1,18 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using NerdStore.Core.Communication.Mediator;
 using NerdStore.Core.Data;
 using NerdStore.Core.Messages;
 using NerdStore.Vendas.Domain;
-
+using System;
+using System.Linq;
+using System.Threading.Tasks;
+using NerdStore.Core.Communication.Mediator;
 
 namespace NerdStore.Vendas.Data
 {
     public class VendasContext : DbContext, IUnitOfWork
     {
         private readonly IMediatorHandler _mediatorHandler;
+
 
         public VendasContext(DbContextOptions<VendasContext> options, IMediatorHandler mediatorHandler)
             : base(options)
@@ -36,9 +39,9 @@ namespace NerdStore.Vendas.Data
                     entry.Property("DataCadastro").IsModified = false;
                 }
             }
-            
+
             var sucesso = await base.SaveChangesAsync() > 0;
-            if(sucesso) await _mediatorHandler.PublicarEvento(this IMediatorHandler mediator, VendasContext ctx);
+            if (sucesso) await _mediatorHandler.PublicarEventos(this);
 
             return sucesso;
         }
@@ -47,7 +50,7 @@ namespace NerdStore.Vendas.Data
         {
             foreach (var property in modelBuilder.Model.GetEntityTypes().SelectMany(
                 e => e.GetProperties().Where(p => p.ClrType == typeof(string))))
-                property.Relational().ColumnType = "varchar(100)";
+                property.SetColumnType("varchar(100)");
 
             modelBuilder.Ignore<Event>();
 
