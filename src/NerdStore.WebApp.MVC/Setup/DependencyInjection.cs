@@ -1,8 +1,6 @@
 ﻿using MediatR;
-using Microsoft.Extensions.DependencyInjection;
 using NerdStore.Catalogo.Application.Services;
 using NerdStore.Catalogo.Data;
-using NerdStore.Catalogo.Data.Repository;
 using NerdStore.Catalogo.Domain;
 using NerdStore.Catalogo.Domain.Events;
 using NerdStore.Core.Communication.Mediator;
@@ -10,7 +8,6 @@ using NerdStore.Core.Messages.CommonMessages.IntegrationEvents;
 using NerdStore.Core.Messages.CommonMessages.Notifications;
 using NerdStore.Pagamentos.AntiCorruption;
 using NerdStore.Pagamentos.Business;
-using NerdStore.Pagamentos.Business.Events;
 using NerdStore.Pagamentos.Data;
 using NerdStore.Pagamentos.Data.Repository;
 using NerdStore.Vendas.Application.Commands;
@@ -19,6 +16,8 @@ using NerdStore.Vendas.Application.Queries;
 using NerdStore.Vendas.Data;
 using NerdStore.Vendas.Data.Repository;
 using NerdStore.Vendas.Domain;
+using ConfigurationManager = Microsoft.Extensions.Configuration.ConfigurationManager;
+using IConfigurationManager = Microsoft.Extensions.Configuration.IConfigurationManager;
 
 namespace NerdStore.WebApp.MVC.Setup
 {
