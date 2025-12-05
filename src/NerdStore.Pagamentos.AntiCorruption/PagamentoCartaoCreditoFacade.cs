@@ -5,9 +5,9 @@ namespace NerdStore.Pagamentos.AntiCorruption
     public class PagamentoCartaoCreditoFacade : IPagamentoCartaoCreditoFacade
     {
         private readonly IPayPalGateway _payPalGateway;
-        private readonly IConfigurationManager _configManager;
+        private readonly IPaymentConfigurationManager _configManager;
 
-        public PagamentoCartaoCreditoFacade(IPayPalGateway payPalGateway, IConfigurationManager configManager)
+        public PagamentoCartaoCreditoFacade(IPayPalGateway payPalGateway, IPaymentConfigurationManager configManager)
         {
             _payPalGateway = payPalGateway;
             _configManager = configManager;

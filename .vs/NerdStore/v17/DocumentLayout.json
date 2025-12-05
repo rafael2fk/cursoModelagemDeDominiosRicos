@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\coursesDev\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA924D24-56E1-44A6-BAFA-437374EFA3CC}|src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj|c:\\coursesdev\\11 - modelagemdedominiosricos - in progress\\02 - courseproject\\nerdstore\\src\\nerdstore.webapp.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA924D24-56E1-44A6-BAFA-437374EFA3CC}|src\\NerdStore.WebApp.MVC\\NerdStore.WebApp.MVC.csproj|solutionrelative:src\\nerdstore.webapp.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F64D6DEC-3BA4-437A-9A0D-422E262CEF39}|src\\EventSourcing\\EventSourcing.csproj|c:\\coursesdev\\11 - modelagemdedominiosricos - in progress\\02 - courseproject\\nerdstore\\src\\eventsourcing\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F64D6DEC-3BA4-437A-9A0D-422E262CEF39}|src\\EventSourcing\\EventSourcing.csproj|solutionrelative:src\\eventsourcing\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,14 +35,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\coursesDev\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.WebApp.MVC\\Program.cs",
-              "RelativeDocumentMoniker": "src\\NerdStore.WebApp.MVC\\Program.cs",
-              "ToolTip": "C:\\coursesDev\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\NerdStore.WebApp.MVC\\Program.cs",
-              "RelativeToolTip": "src\\NerdStore.WebApp.MVC\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAuAAAAAAAAAA==",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\coursesDev\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\EventSourcing\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\EventSourcing\\Class1.cs",
+              "ToolTip": "C:\\coursesDev\\11 - modelagemDeDominiosRicos - in progress\\02 - courseProject\\NerdStore\\src\\EventSourcing\\Class1.cs",
+              "RelativeToolTip": "src\\EventSourcing\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-04T21:03:35.082Z",
+              "WhenOpened": "2025-12-05T16:11:57.878Z",
               "EditorCaption": ""
             }
           ]

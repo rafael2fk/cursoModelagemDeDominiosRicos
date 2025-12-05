@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace NerdStore.Pagamentos.AntiCorruption
 {
-    public class ConfigurationManager : IConfigurationManager
+    public class PaymentConfigurationManager : IPaymentConfigurationManager
     {
         public string GetValue(string node)
         {
